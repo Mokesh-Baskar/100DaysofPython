@@ -6,3 +6,8 @@ Lets get into the basics of python.
 Basic print statements
 Input keyword usage
 length of the string
+
+
+# Day 2
+
+Varaible basics, Type casting, BMI calcualtor , Tips Calculator
