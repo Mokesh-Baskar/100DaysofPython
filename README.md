@@ -11,3 +11,8 @@ length of the string
 # Day 2
 
 Varaible basics, Type casting, BMI calcualtor , Tips Calculator
+
+
+# Day3
+
+ Conditional statement, random function, head or tails program
