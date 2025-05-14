@@ -1,7 +1,7 @@
 # 100DaysofPython
 Lets Code for 100 days with Python
 
-# Day1
+# Day 1
 Lets get into the basics of python.
 Basic print statements
 Input keyword usage
@@ -13,6 +13,11 @@ length of the string
 Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 
 
-# Day3
+# Day 3
 
  Conditional statement, random function, head or tails program
+
+
+# Day 4 
+
+ Basics of list and basic functions associated with list
