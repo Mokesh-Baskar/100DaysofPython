@@ -21,3 +21,7 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day 4 
 
  Basics of list and basic functions associated with list
+
+# Day 5
+ Basics of for loop i.e for loop and while loop
+ Password generator
