@@ -1,6 +1,9 @@
 # 100DaysofPython
 Lets Code for 100 days with Python
 
+Hi Everyone, I have started this repo with aim to once again refresh python with goal learning something new everyday . 
+Will upload new things everyday .
+
 # Day 1
 Lets get into the basics of python.
 Basic print statements
