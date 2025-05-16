@@ -28,3 +28,8 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day 5
  Basics of for loop i.e for loop and while loop
  Password generator
+
+# Day 6
+  Basic Function definition, function with arguments , return function
+  Password generator with function
+
