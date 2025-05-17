@@ -33,3 +33,7 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
   Basic Function definition, function with arguments , return function
   Password generator with function
 
+# Day 7
+  Hangman game with all the basics previoulsy worked. There is a bug in the code try to find it .
+
+P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course  
