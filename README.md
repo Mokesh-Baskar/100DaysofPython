@@ -37,6 +37,9 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
   Hangman game with all the basics previoulsy worked. There is a bug in the code try to find it .
 
 # Day 8 
-  Encryption and Decryption program which encrypts the given word based on key and decrypts the same.  
+  Encryption and Decryption program which encrypts the given word based on key and decrypts the same.
+
+# Day 9
+  Dictionary basics, nested list and nested dictionaries. Grading program with dictioanries
 
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course  
