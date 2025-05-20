@@ -42,4 +42,6 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day 9
   Dictionary basics, nested list and nested dictionaries. Grading program with dictioanries
 
-P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course  
+# Day 10
+  Basic Leap year program, Functions with mutiple return items.
+P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
