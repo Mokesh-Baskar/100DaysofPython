@@ -46,5 +46,6 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
   Basic Leap year program, Functions with mutiple return items.
 
 # Day 11
-  Basic BlackJack game, basic structuring of the game.  
+  Fully functional basic black jack game. Follow the link in program to know the rules.  
+
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
