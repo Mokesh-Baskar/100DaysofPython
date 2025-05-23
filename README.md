@@ -48,4 +48,10 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day 11
   Fully functional basic black jack game. Follow the link in program to know the rules.  
 
+# Day 12
+  Global, Local scope . Constants and Block scope 
+
+# Day 13
+  Higher or Lower game.
+    
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
