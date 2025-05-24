@@ -53,5 +53,8 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 
 # Day 13
   Higher or Lower game.
-    
+
+# Day 14
+  Coffee Machine program 
+
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
