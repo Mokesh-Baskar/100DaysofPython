@@ -66,5 +66,8 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day 17
   Quiz game with object and classes.
 
+# Day 18
+  Methods in a class usages, Inbuilt Turtle class.  
+
 
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
