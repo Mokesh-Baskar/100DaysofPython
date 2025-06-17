@@ -69,5 +69,7 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day 18
   Methods in a class usages, Inbuilt Turtle class.  
 
-
+# Day19
+  Spirography,hisrt painting and turtle race
+   
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
