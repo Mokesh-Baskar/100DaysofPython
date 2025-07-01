@@ -71,5 +71,11 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 
 # Day19
   Spirography,hisrt painting and turtle race
+
+# Day20
+  Basic working of a snake game
+
+# Day21
+  Collision mechanism and scoring of snake game    
    
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
