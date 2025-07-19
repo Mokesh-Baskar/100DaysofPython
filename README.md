@@ -77,5 +77,8 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 
 # Day21
   Collision mechanism and scoring of snake game    
+
+# Day22 & 23
+  Ping Pong Game
    
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
