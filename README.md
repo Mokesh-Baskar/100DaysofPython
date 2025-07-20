@@ -80,5 +80,8 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 
 # Day22 & 23
   Ping Pong Game
-   
+
+# Day24
+  Crossing game
+
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
