@@ -84,4 +84,10 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day24
   Crossing game
 
+# Day25
+  Files access and relative and absolute path
+
+# Day26
+  Working with pandas and csv file , buiding state gussing game with data froma csv file     
+
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
