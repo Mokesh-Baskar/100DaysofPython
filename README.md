@@ -90,4 +90,7 @@ Varaible basics, Type casting, BMI calcualtor , Tips Calculator
 # Day26
   Working with pandas and csv file , buiding state gussing game with data froma csv file     
 
+# Day27
+  Lsit,dict Comprehention and Nato project where we need to assign each word for each letter in persons name
+  
 P.S. I built this repo as part of my learning journey, drawing some inspiration from Angela Yu's Python course.
